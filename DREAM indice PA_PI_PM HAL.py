@@ -5,7 +5,7 @@ from connect import *
 #Script créé par Christine BOUTRY (Décembre 2023) pour calculer les indices de complexité PA, PI et PM de chaque faisceau d'un plan de traitement sur l'Halcyon
 #les indices sont calculés pour chaque MLC (Upper et Lower) et pour le faisceau complet suivant la méthode classique PA5, PI5 et PM5
 #Il faudra intégrer à l'avenir la méthode pondérée pour calculer MCSVw
-#référence biblio: Tamura 2020, https://doi.org/10.1007/s13246-020
+#référence biblio: Tamura 2020, https://doi.org/10.1007/s13246-020-00891-2
 
 
             
